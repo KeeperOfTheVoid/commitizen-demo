@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "type": "build",
+            "section": "Other"
+        },
+        {
+            "type": "chore",
+            "section": "Other"
+        },
+        {
+            "type": "ci",
+            "section": "Other"
+        },
+        {
+            "type": "docs",
+            "hidden": true
+        },
+        {
+            "type": "feat",
+            "section": "Features"
+        },
+        {
+            "type": "fix",
+            "section": "Bug Fixes"
+        },
+        {
+            "type": "perf",
+            "section": "Optimizations"
+        },
+        {
+            "type": "style",
+            "hidden": true
+        },
+        {
+            "type": "test",
+            "hidden": true
+        }
+    ]
+}
